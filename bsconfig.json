@@ -1,5 +1,5 @@
 {
-    "name": "bs-date-fns",
+    "name": "rescript-date-fns",
     "sources": [
         {
             "dir": "src"
