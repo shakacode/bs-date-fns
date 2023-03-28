@@ -1,9 +1,13 @@
 {
-  "name": "bs-date-fns",
-  "refmt": 3,
-  "sources": [
-    {
-      "dir": "src"
-    }
-  ]
+    "name": "bs-date-fns",
+    "sources": [
+        {
+            "dir": "src"
+        },
+        {
+            "dir": "examples",
+            "subdirs": true,
+            "type": "dev"
+        }
+    ]
 }
